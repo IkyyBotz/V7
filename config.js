@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281325898084']
-global.premium = ['6281325898084']
-global.packname = 'MILK BOTZ'
-global.author = 'MILK BOTZ'
+global.owner = ['62821464339681']
+global.premium = ['62821464339681']
+global.packname = 'ERZZ BOTZ'
+global.author = 'ERZZ BOTZ'
 global.sessionName = 'database'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
