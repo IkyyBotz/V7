@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282136391781']
-global.premium = ['6282136391781']
+global.owner = ['6285719169840']
+global.premium = ['6285719169840']
 global.packname = 'BARA4YOU BOTZ'
 global.author = 'BARA4YOU BOTZ'
 global.sessionName = 'database'
